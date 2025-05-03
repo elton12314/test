@@ -1,1 +1,1 @@
-print("AAAAAA")
+print("gadgohpaoj´pOMGGGGGGG")
